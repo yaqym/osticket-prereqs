@@ -42,7 +42,7 @@ Creating a virtual machine to run osTicket is important for several reasons. Fir
 <img src="https://i.imgur.com/gcsrceR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+MySQL server for osTicket because it serves as the database structure, which is essential for storing and managing all of the system's data. osTicket relies on a database to keep track of tickets user information, employee accounts, settings, logs, attachments, and other key information that makes the helpdesk system function. MySQl is used efficoiently and retrieve this data whenever needed.
 </p>
 <br />
 
