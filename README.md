@@ -58,6 +58,6 @@ PHP extensions are important for osTicket because they provide the additional fu
 <img src="https://i.imgur.com/h2q5HPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-osTicket is a helpdesk customer support for customers or employees with technical issues that can be used to help solve those issues. Helpdesk improves customer satisfaction employee services and helps business growth. osTicket is a ticketing system used for managing customer support requests and inquiries. It allows for business and organizations to track, manage, and resolve customers' issues through the web. Some main points of the project are osTicket installation, post osTicket setup, tickets and ticket duration.
+osTicket is a helpdesk customer support for customers or employees with technical issues that can be used to help solve those issues. Helpdesk improves customer satisfaction employee services and helps business growth. osTicket is a ticketing system used for managing customer support requests and inquiries. It allows for business and organizations to track, manage, and resolve customers' issues through the web. 
 </p>
 <br />
